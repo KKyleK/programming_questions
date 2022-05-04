@@ -57,5 +57,5 @@ function tabular_gridTraveler(n, m) {
     return table[n][m];
 }
 
-console.log(tabular_gridTraveler(3, 7));
-console.log(gridTraveler(3, 7));
+console.log(tabular_gridTraveler(3, 3));
+console.log(gridTraveler(3, 3));
